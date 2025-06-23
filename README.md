@@ -1,5 +1,7 @@
 Voice-to-Text Recognition System🎤
+
 📝
+
 Welcome to the Voice-to-Text Recognition System, a web-based application that converts spoken audio into text using the Fast Whisper model. This project combines a Node.js server with Python-based transcription for efficient real-time voice recognition.
 
 📄 Project Overview
